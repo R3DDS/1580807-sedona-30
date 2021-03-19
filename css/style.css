@@ -771,6 +771,7 @@ body {
   background-image: url("../img/blur-background.png");
   background-size: cover;
   background-repeat: no-repeat;
+  z-index: -1
 }
 
 .filter {
