@@ -88,7 +88,7 @@ body {
 }
 
 .text-interactive:focus {
-  color: #766357;
+  color: #000;
 }
 
 .text-selected {
