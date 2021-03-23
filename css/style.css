@@ -188,7 +188,7 @@ body {
 }
 
 .welcome-banner-image {
-  background-image: url("../img/Shape.svg"), url("../img/bg.jpg");
+  background-image: url("../img/shape.svg"), url("../img/bg.jpg");
   background-repeat: no-repeat, no-repeat;
   background-position-y: 452px, 0px;
   background-color: #d3ecfb;
